@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Case Study">
+    <parameter name = "TestName" value="AutomationPanda"/>
+    <test name="AutomationPanda">
+        <classes>
+            <class name="TestCases.Scenario1_Test_AutomationPanda"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->

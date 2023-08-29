@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Case Study">
+    <parameter name = "TestName" value="flipkart"/>
+    <test name="Flipkart">
+        <classes>
+            <class name="TestCases.Scenario2_Test_Flipkart"/>
+        </classes>
+    </test> <!-- Test -->
+</suite> <!-- Suite -->
