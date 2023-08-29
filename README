@@ -1,1 +1,64 @@
-this is readme
+Please find the below details for Case study question :
+
+1. Question 1 : Implement below case study using Selenium with Java concepts (TestNG with POM Design Pattern)
+
+    a. Repository name - CaseStudy_Basic
+
+    b. Scenario 1 :
+        Test Case - src/test/java/TestCases/Scenario1_Test_AutomationPanda.java
+        Testng.xml - testng_AutomationPanda.xml
+
+    c. Scenario 2 :
+        Test Case - src/test/java/TestCases/Scenario2_Test_Flipkart.java
+        Testng.xml - testng_flipkart.xml
+
+    d. Maven POM file -  pom.xml
+
+    e. Git Repository link - https://github.com/Ranadip271191/CaseStudy
+
+
+2. Question 2 : Implement below Case Study using Selenium with Python concepts (To implement this use PyTest and Fixtures)
+
+  a. Repository name - CaseStudy2_PythonSelenium
+
+  b. Scenario 1 - SDET_Basic_Case_Study/CaseStudy2_PythonSelenium/test_AutomationPanda.py
+
+  c. Scenario 2 - SDET_Basic_Case_Study/CaseStudy2_PythonSelenium/test_flipkart.py
+
+
+3. Question 3 : Implement below Case Study using POSTMAN API Automation
+
+  a. Collection name -  CaseStudy_3_6_Postman.postman_collection.json
+
+  b. Path - SDET_Basic_Case_Study/CaseStudy_3_6_Postman.postman_collection.json
+
+  c. Scenario 1 :
+      API -> https://reqres.in/api/unknown/2
+      File name -> CaseStudy3.1_unkown/2
+
+  d. Scenario 2 : 
+      API -> https://reqres.in/api/users?page=1
+      File Name -> CaseStudy3.2_users_page=1
+
+4. Question 4 : Implement below case study using Selenium with Java concepts (TestNG with POM Design Pattern)
+
+    a. Repository name - CaseStudy_Basic
+
+    b. Scenario - Same scenario as Question_1 Scenario_1. Already implemented on Question_1 Scenario_1 path.
+
+5. Question 5 : Implement below Case Study using Selenium with Python concepts (To implement this use PyTest and Fixtures)
+
+    a. Repository name - CaseStudy2_PythonSelenium
+
+    b. Scenario - Same scenario as Question_2 Scenario_1. Already implemented on Question_2 Scenario_1 path.
+
+6. Implement below Case Study using POSTMAN API Automation
+
+    a. Collection name -  CaseStudy_3_6_Postman.postman_collection.json
+
+    b. Path - SDET_Basic_Case_Study/CaseStudy_3_6_Postman.postman_collection.json
+
+    c. API -> https://reqres.in/api/users/2
+
+    d. File name -> CaseStudy6
+
